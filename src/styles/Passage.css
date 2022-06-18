@@ -1,0 +1,23 @@
+.passage {
+  margin: 1rem;
+  font-size: 16px;
+  width: fit-content;
+}
+
+.key-correct {
+  color: green;
+}
+
+.key-wrong {
+  color: red;
+}
+
+.key-current {
+  color: black;
+  font-weight: bold; 
+  text-decoration: underline;
+}
+
+.key-future {
+  color: black;
+}

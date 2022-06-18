@@ -1,0 +1,38 @@
+.layout {
+  margin: auto;
+  width: 50%;
+}
+
+.title {
+  text-align: center;
+}
+
+.author {
+  display: flex;
+  justify-content: right;
+  margin-right: 1rem;
+  font-style: italic;
+}
+
+.input-div {
+  margin: 1rem;
+}
+
+input {
+  width: 100%;
+  font-size: 14px;
+}
+
+.retry-div {
+  display: flex;
+  justify-content: center;
+  align-content: center; 
+}
+
+button {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
